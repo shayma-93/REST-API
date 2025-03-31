@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "company": "Tech Innovators Inc.",
+      "location": "San Francisco, CA",
+      "salary": 120000,
+      "job_type": "Full-time",
+      "description": "Develop and maintain software applications, collaborate with cross-functional teams, and improve product performance.",
+      "id": "1743193489248"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Data Solutions Ltd.",
+      "location": "New York, NY",
+      "salary": 110000,
+      "job_type": "Full-time",
+      "description": "Analyze large datasets, build machine learning models, and deliver actionable insights for business decision-making.",
+      "id": "1743193508396"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Global Ventures",
+      "location": "Remote",
+      "salary": 95000,
+      "job_type": "Contract",
+      "description": "Lead projects from start to finish, manage timelines, resources, and ensure client satisfaction with project outcomes.",
+      "id": "1743193529571"
+    },
+    {
+      "title": "Product Designer",
+      "company": "DesignX Studios",
+      "location": "Austin, TX",
+      "salary": 85000,
+      "job_type": "Full-time",
+      "description": "Design user interfaces and experiences for digital products, conduct user research, and collaborate with developers to ensure a seamless design-to-development process.",
+      "id": "1743193567230"
+    }
+  ]
+}
